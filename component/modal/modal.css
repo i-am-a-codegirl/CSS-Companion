@@ -9,7 +9,6 @@ background-color: #111827;
 }
 
 * {
-
 --primary-color: #ecfeff ;
 --secondary-color: #FA0874;
 --black: #111827;
@@ -54,7 +53,7 @@ nav h2{
 }
 
 .imp-text{
-    font-family: 'Redressed', cursive;
+font-family: 'Redressed', cursive;
 font-family: 'Roboto', sans-serif;
 font-family: 'Satisfy', cursive;
 color: var(--secondary-color);
@@ -141,7 +140,7 @@ h3{
 
 
 hr{
-    border-top: 1px solid var(--primary-color); 
+  border-top: 1px solid var(--primary-color); 
   width: 50rem;
 }
 
@@ -224,7 +223,7 @@ footer{
 
 footer ul{
  padding-inline-start: 0.5rem;
-    display: flex;
+  display: flex;
   gap: 20px;
 } 
 
@@ -409,11 +408,7 @@ footer ul{
               position: absolute;
               top: 16rem;
               z-index: 2;
-        
-              
-              
-     
-          }
+         }
          
      aside ul{
          background-color: var(--primary-color);
@@ -495,11 +490,7 @@ footer ul{
          position: absolute;
          top: 16rem;
          z-index: 2;
-   
-         
-         
-
-     }
+    }
     
 aside ul{
     background-color: var(--primary-color);
