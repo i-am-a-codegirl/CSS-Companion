@@ -38,9 +38,7 @@ nav{
     gap: 20px;
     width: 100vw;
     flex-direction: column;
-    grid-area: nav;
-    
-
+    grid-area: nav;    
 }
 
 nav h2{
@@ -52,7 +50,7 @@ nav h2{
 }
 
 .imp-text{
-    font-family: 'Redressed', cursive;
+ font-family: 'Redressed', cursive;
 font-family: 'Roboto', sans-serif;
 font-family: 'Satisfy', cursive;
 color: var(--secondary-color);
@@ -65,8 +63,8 @@ color: var(--secondary-color);
 
 
 nav ul{
-    margin-left: auto; 
-    display: flex;
+  margin-left: auto; 
+  display: flex;
   gap: 15px;
   position: relative;
   bottom: 35px;
@@ -79,12 +77,11 @@ li{
     list-style: none;
     padding: 0.5rem;
     font-weight: bold;
-   
+  
 }
 li a{
     text-decoration: none;
-    color: var(--primary-color);
-    
+    color: var(--primary-color);    
 }
 
 a:hover{
@@ -93,13 +90,10 @@ a:hover{
 }
 
 main{
-   
     grid-area: main;
     font-size: 1.2rem;
     padding-left: 7rem;
     padding-right: 7rem;
-    
-   
 }
 
 main p{
@@ -107,7 +101,6 @@ main p{
 }
 
 aside {
-
     background: #111827;
 }
 
@@ -123,14 +116,12 @@ display: none;
 
 h3{
     font-size: 1.5rem;
-    /* line-height: 2rem; */
     letter-spacing: 0.1rem;
  }
 
  .impact{
      font-style: italic;
-     color: var(--secondary-color);
-     
+     color: var(--secondary-color);    
  }
 
  
