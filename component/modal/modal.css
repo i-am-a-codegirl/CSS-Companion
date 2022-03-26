@@ -67,8 +67,8 @@ color: var(--secondary-color);
 
 
 nav ul{
-    margin-left: auto; 
-    display: flex;
+  margin-left: auto; 
+  display: flex;
   gap: 15px;
   position: relative;
   bottom: 35px;
@@ -91,18 +91,14 @@ li a{
 
 a:hover{
     color: #f472b6;
-  
-}
+  }
 
 main{
-   
     grid-area: main;
     font-size: 1.2rem;
     padding-left: 7rem;
     padding-right: 7rem;
-    
-   
-}
+    }
 
 main p{
     letter-spacing: 0.1rem;
@@ -120,21 +116,18 @@ aside label{
 aside #hamburger{
 grid-area: ham;
 display: none;
-
 }
 
 
 h3{
     font-size: 1.5rem;
-    /* line-height: 2rem; */
     letter-spacing: 0.1rem;
  }
 
  .impact{
      font-style: italic;
      color: var(--secondary-color);
-     
- }
+     }
 
  
  
@@ -159,9 +152,6 @@ hr{
 iframe{
     padding-top: 1rem;
 }
-
-
-
 
 .medium{
     width: 4.5rem;
@@ -221,10 +211,6 @@ iframe{
 }
 
 
-
-
-
-
 footer{
     grid-area: footer;
     display: flex;
@@ -234,16 +220,12 @@ footer{
     padding: 0.5rem;
     border-top: 1px solid var(--primary-color);
     margin-top: 3rem;
-      
-
-}
+      }
 
 footer ul{
  padding-inline-start: 0.5rem;
     display: flex;
   gap: 20px;
-
-
 } 
 
 
