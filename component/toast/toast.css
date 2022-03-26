@@ -25,8 +25,8 @@ background-color: #111827;
     grid-template-columns: 200px 1fr; 
  
     grid-template-areas: 
-    "nav nav "
-    "pitch pitch"
+   "nav nav "
+   "pitch pitch"
    "aside main"
    "aside main"
    "aside main"
@@ -63,10 +63,9 @@ color: var(--secondary-color);
 }
 
 
-
 nav ul{
-    margin-left: auto; 
-    display: flex;
+  margin-left: auto; 
+  display: flex;
   gap: 15px;
   position: relative;
   bottom: 35px;
@@ -99,8 +98,7 @@ main{
     padding-left: 7rem;
     padding-right: 7rem;
     
-   
-}
+ }
 
 main p{
     letter-spacing: 0.1rem;
@@ -118,14 +116,12 @@ aside label{
 aside #hamburger{
 grid-area: ham;
 display: none;
-
 }
 
 
 
 h3{
     font-size: 1.5rem;
-    /* line-height: 2rem; */
     letter-spacing: 0.1rem;
  }
 
@@ -158,8 +154,6 @@ hr{
 iframe{
     padding-top: 1rem;
 }
-
-
 
 
 .medium{
@@ -226,11 +220,6 @@ iframe{
 }
 
 
-
-
-
-
-
 footer{
     grid-area: footer;
     display: flex;
@@ -241,15 +230,12 @@ footer{
     border-top: 1px solid var(--primary-color);
     margin-top: 3rem;
       
-
 }
 
 footer ul{
  padding-inline-start: 0.5rem;
     display: flex;
   gap: 20px;
-
-
 } 
 
 
