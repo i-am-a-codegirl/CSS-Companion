@@ -65,8 +65,8 @@ color: var(--secondary-color);
 
 
 nav ul{
-    margin-left: auto; 
-    display: flex;
+  margin-left: auto; 
+  display: flex;
   gap: 15px;
   position: relative;
   bottom: 35px;
@@ -136,8 +136,7 @@ h3{
      
  }
 
- 
- 
+  
 
 .component-text{
     grid-area: pitch;
