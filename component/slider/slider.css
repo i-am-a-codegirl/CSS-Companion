@@ -13,6 +13,8 @@ background-color: #111827;
 --primary-color: #ecfeff ;
 --secondary-color: #FA0874;
 --black: #111827;
+--hover-color: #f472b6;
+--aside-color: #ecfeff;
 }
 
 .container{
@@ -88,7 +90,7 @@ li a{
 }
 
 a:hover{
-    color: #f472b6;
+    color: var(--hover-color);
   
 }
 
@@ -483,7 +485,7 @@ aside ul{
 
     aside label{
         font-size: 3.2rem;
-        color: #ecfeff;
+        color: var(--aside-color);
     }
 
      aside input:checked ~ .hamitems{
