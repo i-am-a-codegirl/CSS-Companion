@@ -1,4 +1,4 @@
-#Css Companion
+# Css Companion
 The only CSS compoenent library you need for creating customizable, compatible and beautiful component for your websites.
 
  <h3><a href="https://the-css-companion.netlify.app/index.html">Check out CSS Companion</a></h3>
@@ -32,7 +32,7 @@ The only CSS compoenent library you need for creating customizable, compatible a
             <li><a href="https://the-css-companion.netlify.app/component/input/input.html">Input</a></li>
             <li><a href="https://the-css-companion.netlify.app/component/text/text-utilities.html">Text Utilities</a></li>
             <li><a href="https://the-css-companion.netlify.app/component/navigation/navigation.html">Navigation</a></li>
-            <li><a href=https://the-css-companion.netlify.app/component/modal/modal.html">Modal</a></li>
+            <li><a href="https://the-css-companion.netlify.app/component/modal/modal.html">Modal</a></li>
             <li><a href="https://the-css-companion.netlify.app/component/rating/rating.html">Rating</a></li>
             <li><a href="https://the-css-companion.netlify.app/component/toast/toast.html">Toast</a></li>
             <li><a href="https://the-css-companion.netlify.app/component/grid/grid.html">Grids</a></li>
