@@ -1,7 +1,7 @@
 #Css Companion
 The only CSS compoenent library you need for creating customizable, compatible and beautiful component for your websites.
 
- <h3><a href="https://the-css-companion.netlify.app">Check out CSS Companion</a></h3>
+ <h3><a href="https://the-css-companion.netlify.app/index.html">Check out CSS Companion</a></h3>
 
  # Installation
 
