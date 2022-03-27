@@ -40,4 +40,12 @@ The only CSS compoenent library you need for creating customizable, compatible a
             </ol>
 
 
+
  # preview
+
+https://user-images.githubusercontent.com/81037395/160293044-739d6982-c2d7-498b-bd7a-edfc2107ded0.mp4
+
+
+
+ 
+ 
