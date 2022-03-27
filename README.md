@@ -7,11 +7,11 @@ The only CSS compoenent library you need for creating customizable, compatible a
 
 - You can add this line into your html code to use the components inside the library.
 ```html
-<link rel="stylesheet" href="" />
+<link rel="stylesheet" href="https://the-css-companion.netlify.app/component/component-css.css" />
 ```
 - You can also import it in your css file.
 ```css
-@import url("");
+@import url("https://the-css-companion.netlify.app/component/component-css.css");
 
 ```
 
