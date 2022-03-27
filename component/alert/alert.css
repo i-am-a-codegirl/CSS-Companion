@@ -39,8 +39,6 @@ nav{
     width: 100vw;
     flex-direction: column;
     grid-area: nav;
-    
-
 }
 
 nav h2{
@@ -52,7 +50,7 @@ nav h2{
 }
 
 .imp-text{
-    font-family: 'Redressed', cursive;
+font-family: 'Redressed', cursive;
 font-family: 'Roboto', sans-serif;
 font-family: 'Satisfy', cursive;
 color: var(--secondary-color);
@@ -65,8 +63,8 @@ color: var(--secondary-color);
 
 
 nav ul{
-    margin-left: auto; 
-    display: flex;
+  margin-left: auto; 
+  display: flex;
   gap: 15px;
   position: relative;
   bottom: 35px;
@@ -97,9 +95,7 @@ main{
     grid-area: main;
     font-size: 1.2rem;
     padding-left: 7rem;
-    padding-right: 7rem;
-    
-   
+    padding-right: 7rem;  
 }
 
 main p{
@@ -118,21 +114,18 @@ aside label{
 aside #hamburger{
 grid-area: ham;
 display: none;
-
 }
 
 
 
 h3{
     font-size: 1.5rem;
-    /* line-height: 2rem; */
     letter-spacing: 0.1rem;
  }
 
  .impact{
      font-style: italic;
-     color: var(--secondary-color);
-     
+     color: var(--secondary-color);    
  }
 
  
@@ -206,8 +199,6 @@ iframe{
 }
 
 
-
-
 footer{
     grid-area: footer;
     display: flex;
@@ -217,16 +208,12 @@ footer{
     padding: 0.5rem;
     border-top: 1px solid var(--primary-color);
     margin-top: 3rem;
-      
-
 }
 
 footer ul{
- padding-inline-start: 0.5rem;
-    display: flex;
+  padding-inline-start: 0.5rem;
+  display: flex;
   gap: 20px;
-
-
 } 
  
 
@@ -411,10 +398,6 @@ footer ul{
               position: absolute;
               top: 16rem;
               z-index: 2;
-        
-              
-              
-     
           }
          
      aside ul{
